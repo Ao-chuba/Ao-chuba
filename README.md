@@ -47,7 +47,7 @@ I focus on writing clean, efficient solutions — whether it's
 
 ---
 
-<img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%">
+<img src="https://unsplash.com/photos/an-old-computer-with-a-heart-on-the-screen-BF9I4IwF6xs" width="100%">
 
 ---
 
