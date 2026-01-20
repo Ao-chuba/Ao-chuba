@@ -38,6 +38,9 @@ I focus on writing clean, efficient solutions — whether it's
 <a href="https://github.com/Ao-chuba">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
+<a href="https://www.codechef.com/users/capybara_codes">
+  <img src="https://img.shields.io/badge/Codechef-black?style=flat&logo=github">
+</a>
 </p>
 
 </div>
