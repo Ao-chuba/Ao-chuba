@@ -14,15 +14,15 @@ I enjoy solving algorithmic problems and building practical software.
 I focus on writing clean, efficient solutions — whether it's
 <strong>competitive programming</strong>,
 <strong>backend systems</strong>, or
-<strong>AI-powered applications</strong>.
+<strong>Beautiful UI</strong>.
 </p>
 
 <p><strong>I love turning ideas into working systems.</strong></p>
 
 <p>
 🏆 ICPC Regionalist<br>
-🌱 Currently building: <strong>Django + AI projects</strong><br>
-⚡ Focus: <strong>DSA • Algorithms • Backend • ML</strong>
+🌱 Currently building: <strong>Django project</strong><br>
+⚡ Focus: <strong>DSA • Algorithms • Backend </strong>
 </p>
 
 <p>
