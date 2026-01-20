@@ -46,15 +46,4 @@ I focus on writing clean, efficient solutions — whether it's
 
 <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%">
 
----
 
-### 🔍 What I Work On
-- 🧠 **Competitive Programming** (Codeforces, CodeChef, ICPC)
-- 🌐 **Backend Development** using Django
-- 🤖 **AI / ML Projects** (CNNs, intelligent systems)
-- 📊 Data visualization & system design
-
-### 🚀 Featured Projects
-- **NoteNest** – AI-powered productivity & study platform  
-- **EnerSave** – Smart energy monitoring & analytics system  
-- **CP Repository** – Structured solutions with optimal approaches
