@@ -39,7 +39,7 @@ I focus on writing clean, efficient solutions — whether it's
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
 <a href="https://www.codechef.com/users/capybara_codes">
-  <img src="https://img.shields.io/badge/Codechef-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/Codechef-black?style=flat&logo=codechef">
 </a>
 </p>
 
