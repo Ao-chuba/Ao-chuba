@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ao-chuba/Ao-chuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>AOCHUBA AIER</h1>
 
-Here are some ideas to get you started:
+<p>
+Competitive Programmer ✦ Problem Solver ✦ Builder
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="width:60%;">
+
+<p>
+Welcome to my workspace.<br><br>
+I enjoy solving algorithmic problems and building practical software.
+I focus on writing clean, efficient solutions — whether it's
+<strong>competitive programming</strong>,
+<strong>backend systems</strong>, or
+<strong>AI-powered applications</strong>.
+</p>
+
+<p><strong>I love turning ideas into working systems.</strong></p>
+
+<p>
+🏆 ICPC Regionalist<br>
+🌱 Currently building: <strong>Django + AI projects</strong><br>
+⚡ Focus: <strong>DSA • Algorithms • Backend • ML</strong>
+</p>
+
+<p>
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin">
+</a>
+<a href="https://codeforces.com/profile/your_handle">
+  <img src="https://img.shields.io/badge/Codeforces-black?style=flat&logo=codeforces">
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+</a>
+</p>
+
+</div>
+
+---
+
+<img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%">
+
+---
+
+### 🔍 What I Work On
+- 🧠 **Competitive Programming** (Codeforces, CodeChef, ICPC)
+- 🌐 **Backend Development** using Django
+- 🤖 **AI / ML Projects** (CNNs, intelligent systems)
+- 📊 Data visualization & system design
+
+### 🚀 Featured Projects
+- **NoteNest** – AI-powered productivity & study platform  
+- **EnerSave** – Smart energy monitoring & analytics system  
+- **CP Repository** – Structured solutions with optimal approaches
