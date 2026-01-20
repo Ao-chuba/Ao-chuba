@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>AOCHUBA S AIER (づ｡◕‿‿◕｡)づ </h1>
+<h1>AOCHUBA S AIER </h1>
 
 <p>
 Competitive Programmer ♣ Problem Solver ♣ Builder 
@@ -9,7 +9,7 @@ Competitive Programmer ♣ Problem Solver ♣ Builder
 <hr style="width:60%;">
 
 <p>
-Welcome to my workspace.<br><br>
+Welcome to my corner of the internet (づ｡◕‿‿◕｡)づ .<br><br>
 I enjoy solving algorithmic problems and building practical software.
 I focus on writing clean, efficient solutions — whether it's
 <strong>competitive programming</strong>,
