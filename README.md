@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>AOCHUBA AIER</h1>
+<h1>AOCHUBA S AIER (づ｡◕‿‿◕｡)づ </h1>
 
 <p>
-Competitive Programmer ✦ Problem Solver ✦ Builder
+Competitive Programmer ♣ Problem Solver ♣ Builder 
 </p>
 
 <hr style="width:60%;">
