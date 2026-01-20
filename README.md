@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>AOCHUBA S AIER </h1>
+<h1>AOCHUBA S AIER</h1>
 
 <p>
 Competitive Programmer ♣ Problem Solver ♣ Builder 
@@ -35,7 +35,7 @@ I focus on writing clean, efficient solutions — whether it's
 <a href="https://codeforces.com/profile/furinaa_chan">
   <img src="https://img.shields.io/badge/Codeforces-black?style=flat&logo=codeforces">
 </a>
-<a href="https://drive.google.com/file/d/19EkC39UmteIMALIZiRiwivAp6cT-XL_U/view?usp=sharing/view">
+<a href="https://drive.google.com/file/d/19EkC39UmteIMALIZiRiwivAp6cT-XL_U/view">
   <img src="https://img.shields.io/badge/Resume-black?style=flat&logo=googledocs">
 </a>
 <a href="https://www.codechef.com/users/capybara_codes">
@@ -56,6 +56,6 @@ I focus on writing clean, efficient solutions — whether it's
 <h3 align="center">My ToolBox</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,Django,Html,Css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css&theme=dark" />
 </div>
 
