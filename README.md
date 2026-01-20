@@ -49,4 +49,13 @@ I focus on writing clean, efficient solutions — whether it's
 
 <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%">
 
+---
+
+<br>
+
+<h3 align="center">My ToolBox</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,Django,Html,Css&theme=dark" />
+</div>
 
