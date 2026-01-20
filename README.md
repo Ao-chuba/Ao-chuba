@@ -21,21 +21,21 @@ I focus on writing clean, efficient solutions — whether it's
 
 <p>
 🏆 ICPC Regionalist<br>
-🌱 Currently building: <strong>Django project</strong><br>
+🌱 Currently building: <strong>Django projects</strong><br>
 ⚡ Focus: <strong>DSA • Algorithms • Backend </strong>
 </p>
 
 <p>
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:aochuba52@gmail.com">
   <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail">
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/aochuba-s-aier-b03a70319/">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin">
 </a>
-<a href="https://codeforces.com/profile/your_handle">
+<a href="https://codeforces.com/profile/furinaa_chan">
   <img src="https://img.shields.io/badge/Codeforces-black?style=flat&logo=codeforces">
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Ao-chuba">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
 </a>
 </p>
