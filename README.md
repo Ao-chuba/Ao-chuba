@@ -48,7 +48,7 @@ I focus on writing clean, efficient solutions — whether it's
 ---
 
 <!-- Banner image hosted in your repo -->
-<img src="assets/demo1.mp4" width="100%">
+<img src="assets/banner4.mp4" width="70">
 
 <!-- Optional: clickable image that opens a demo video -->
 <!--
