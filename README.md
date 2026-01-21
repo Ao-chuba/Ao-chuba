@@ -48,7 +48,7 @@ I focus on writing clean, efficient solutions — whether it's
 ---
 
 <p align="center">
-<img src="assets/banner4.jpeg" width="800">
+<img src="assets/banner5.png" width="100%">
 </p>
 
 ---
