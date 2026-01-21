@@ -3,18 +3,18 @@
 <h1>AOCHUBA S AIER</h1>
 
 <p>
-Competitive Programmer ♣ Problem Solver ♣ Builder 
+Competitive Programmer ♣ Problem Solver ♣ Builder
 </p>
 
 <hr style="width:60%;">
 
 <p>
-Welcome to my corner of the internet (づ｡◕‿‿◕｡)づ .<br><br>
+Welcome to my corner of the internet (づ｡◕‿‿◕｡)づ<br><br>
 I enjoy solving algorithmic problems and building practical software.
 I focus on writing clean, efficient solutions — whether it's
 <strong>competitive programming</strong>,
 <strong>backend systems</strong>, or
-<strong>Beautiful UI</strong>.
+<strong>clean UI</strong>.
 </p>
 
 <p><strong>I love turning ideas into working systems.</strong></p>
@@ -22,7 +22,7 @@ I focus on writing clean, efficient solutions — whether it's
 <p>
 🏆 ICPC Regionalist<br>
 🌱 Currently building: <strong>Django projects</strong><br>
-⚡ Focus: <strong>DSA • Algorithms • Backend </strong>
+⚡ Focus: <strong>DSA • Algorithms • Backend</strong>
 </p>
 
 <p>
@@ -39,7 +39,7 @@ I focus on writing clean, efficient solutions — whether it's
   <img src="https://img.shields.io/badge/Resume-black?style=flat&logo=googledocs">
 </a>
 <a href="https://www.codechef.com/users/capybara_codes">
-  <img src="https://img.shields.io/badge/Codechef-black?style=flat&logo=codechef">
+  <img src="https://img.shields.io/badge/CodeChef-black?style=flat&logo=codechef">
 </a>
 </p>
 
@@ -47,15 +47,23 @@ I focus on writing clean, efficient solutions — whether it's
 
 ---
 
-<img src="https://unsplash.com/photos/an-old-computer-with-a-heart-on-the-screen-BF9I4IwF6xs" width="100%">
+<!-- Banner image hosted in your repo -->
+<img src="assets/banner.png" width="100%">
+
+<!-- Optional: clickable image that opens a demo video -->
+<!--
+<a href="assets/demo.mp4">
+  <img src="assets/banner.png" width="100%">
+</a>
+<p align="center"><em>Click to watch demo</em></p>
+-->
 
 ---
 
 <br>
 
-<h3 align="center">My ToolBox</h3>
+<h3 align="center">TOOLBOX</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git,linux&theme=dark" />
 </div>
-
