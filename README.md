@@ -47,16 +47,9 @@ I focus on writing clean, efficient solutions — whether it's
 
 ---
 
-<!-- Banner image hosted in your repo -->
+<p align="center">
 <img src="assets/banner4.jpeg" width="85">
-
-<!-- Optional: clickable image that opens a demo video -->
-<!--
-<a href="assets/demo.mp4">
-  <img src="assets/banner.png" width="100%">
-</a>
-<p align="center"><em>Click to watch demo</em></p>
--->
+</p>
 
 ---
 
