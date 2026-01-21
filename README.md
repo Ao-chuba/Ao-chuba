@@ -48,7 +48,7 @@ I focus on writing clean, efficient solutions — whether it's
 ---
 
 <!-- Banner image hosted in your repo -->
-<img src="assets/banner.png" width="100%">
+<img src="assets/banner1.jpeg" width="100%">
 
 <!-- Optional: clickable image that opens a demo video -->
 <!--
@@ -65,5 +65,5 @@ I focus on writing clean, efficient solutions — whether it's
 <h3 align="center">TOOLBOX</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git&theme=dark" />
 </div>
