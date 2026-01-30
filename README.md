@@ -53,8 +53,20 @@ I focus on writing clean, efficient solutions — whether it's
 
 ---
 
-<h3 align="center">TOOLBOX</h3>
+<h3 align="center">TECH STACK</h3>
 
+<!-- Languages & Frameworks -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git,Pandas,Numpy,Matplotlib,Scipy,Sympy&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git&theme=dark" />
 </div>
+
+<br>
+
+<!-- Libraries -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy">
+  <img src="https://img.shields.io/badge/SymPy-black?style=flat&logo=python">
+</p>
