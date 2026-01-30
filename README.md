@@ -56,5 +56,5 @@ I focus on writing clean, efficient solutions — whether it's
 <h3 align="center">TOOLBOX</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git,pandas,numpy,matplotlib,scipy,sympy&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,django,html,css,git,Pandas,Numpy,Matplotlib,Scipy,Sympy&theme=dark" />
 </div>
