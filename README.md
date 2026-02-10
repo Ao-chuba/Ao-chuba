@@ -57,7 +57,7 @@ I focus on writing clean, efficient solutions — whether it's
 
 <!-- Languages & Frameworks -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,typescript,django,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,django,html,css,git&theme=dark" />
 </div>
 
 <br>
