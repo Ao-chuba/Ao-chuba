@@ -3,7 +3,7 @@
 <h1>AOCHUBA S AIER</h1>
 
 <p>
-Competitive Programmer ♣ Problem Solver ♣ Builder
+Competitive Programmer ♣ Problem Solver ♣ Builder ♣ OpenSource Contributor
 </p>
 
 <hr style="width:60%;">
