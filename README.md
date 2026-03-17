@@ -21,7 +21,7 @@ I focus on writing clean, efficient solutions — whether it's
 
 <p>
 🏆 ICPC Regionalist<br>
-🧩 Currently building: <strong>Django projects</strong><br>
+🧩 Building backend systems with Django</strong><br>
 🎯 Focus: <strong>DSA • Algorithms • Backend</strong>
 </p>
 
