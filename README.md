@@ -41,6 +41,9 @@ I focus on writing clean, efficient solutions — whether it's
 <a href="https://www.codechef.com/users/capybara_codes">
   <img src="https://img.shields.io/badge/CodeChef-black?style=flat&logo=codechef">
 </a>
+<a href="https://leetcode.com/u/Aochuba/">
+  <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=LeetCode">
+</a>
 </p>
 
 </div>
