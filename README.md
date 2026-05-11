@@ -29,7 +29,8 @@ I focus on writing clean, efficient solutions — whether it's
 <a href="mailto:aochuba52@gmail.com">
   <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail">
 </a>
-<a href="https://www.linkedin.com/in/aochuba-s-aier-b03a70319/">
+<a href="https://www.linkedin.com/in/aochuba-
+aier-b03a70319/">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin">
 </a>
 <a href="https://codeforces.com/profile/furinaa_chan">
