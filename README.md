@@ -60,7 +60,8 @@ I focus on writing clean, efficient solutions — whether it's
 
 <!-- Languages & Frameworks -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,yml,django,mysql,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,django,mysql,html,css,git&theme=dark" />
+  <img src="https://img.shields.io/badge/YAML-7015b3?style=for-the-badge&logo=yaml&logoColor=white" />
 </div>
 
 <br>
