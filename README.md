@@ -61,7 +61,7 @@ aier-b03a70319/">
 
 <!-- Languages & Frameworks -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,django,mysql,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,yaml,django,mysql,html,css,git&theme=dark" />
 </div>
 
 <br>
