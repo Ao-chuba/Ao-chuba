@@ -60,7 +60,7 @@ I focus on writing clean, efficient solutions — whether it's
 
 <!-- Languages & Frameworks -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,yaml,django,mysql,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,yml,django,mysql,html,css,git&theme=dark" />
 </div>
 
 <br>
