@@ -35,7 +35,7 @@ I focus on writing clean, efficient solutions — whether it's
 <a href="https://codeforces.com/profile/furinaa_chan">
   <img src="https://img.shields.io/badge/Codeforces-black?style=flat&logo=codeforces">
 </a>
-<a href="https://drive.google.com/file/d/1XrK_DXjfvNFHXDBvqmPygmz6WLIXVlF_/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1d54aGq03GjQqWOJVJ-LJsvG_V-mGA2w6/view">
   <img src="https://img.shields.io/badge/Resume-black?style=flat&logo=googledocs">
 </a>
 <a href="https://www.codechef.com/users/capybara_codes">
